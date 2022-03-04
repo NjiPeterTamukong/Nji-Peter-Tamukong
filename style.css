@@ -1,0 +1,70 @@
+
+body {
+	background-color: lightgreen;
+}
+h1   {color: blue;
+	font-weight: bold;
+	color: blue;
+		font-family: verdana;
+		font-size: 300%;
+		background-color: gray; 
+		text-align: center;
+		border: solid 2px red
+	}
+
+h2   {color: green;
+	font-weight: bold; 
+	font-weight: bold;
+	text-align: center; 
+	background-color: white; 
+	font-family: Helvetica; 
+	font-size: 200%; 
+	border: solid 2px red
+}
+p    {color: purple; 
+	font-family: Arial;
+	font-size: 150%;
+	border: 2px solid powderblue; 
+	margin: 50px; 
+	background-color: powderblue; 
+	font-size: 23px; 
+	border: solid 2px brown; 
+	text-align: center;
+}
+
+ul {list-style-image: url('sqpurple.gif')
+} 
+
+dt {background-color: lightgray;
+	color: red; 
+	font-family: Arial;
+	font-size: 150%
+}
+
+dd {color: blue; 
+	font-family: Arial;
+	font-size: 125%; 
+	padding: 10px;
+}
+
+li  {background-color: lightgray; 
+	color: red; 
+	font-family: Arial;
+	font-size: 100%;
+	padding: 10px 
+}
+
+
+.changeA{
+	color: red;
+	font-size: 180%
+}
+
+.changeB{
+	color: green;
+	font-size: 150%
+}
+.changeC{
+	color: purple;
+	font-size: 120%
+}
